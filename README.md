@@ -85,10 +85,6 @@ La tabla `Matricula` incluye:
 
 ### Relationships
 
-El siguiente diagrama de relaciones entre entidades describe las relaciones entre las entidades en la base de datos.
-
-![ER Diagram](diagram.png)
-
 Como se detalla en el diagrama:
 
 * Un estudiantes puede estudiar 1 carrera en la universidad, pero muchos estudiantes pueden estudiar 1 la carrera en la universidad.
